@@ -75,7 +75,7 @@ class _HomePageState extends State<HomePage> {
 
 Widget _buildCategories() {
   return Padding(
-    padding: const EdgeInsets.all(8.0),
+    padding: const EdgeInsets.only(right: 10.0),
     child: SizedBox(
       height: 50,
       child: ListView.builder(
@@ -125,6 +125,7 @@ Widget _buildProductGrid() {
                   );
                 },
                 child: Card(
+                  margin: EdgeInsets.only(right: 10.0, left: 10.0),
                   elevation: 0,
                   shape:
                   RoundedRectangleBorder(
