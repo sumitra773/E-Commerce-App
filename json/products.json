@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Apple",
+    "image":
+    "https://media.istockphoto.com/id/1203599963/photo/food-background-with-assortment-of-fresh-organic-fruits-and-vegetables.jpg?s=1024x1024&w=is&k=20&c=jP13-jp5171GgDlLggNEigA_tbMikN6NbBtdHToFixg=",
+    "price": "₹100"
+  },
+  {
+    "name": "Vegetable",
+    "image": "https://img.freepik.com/premium-psd/special-fruits-social-media-post-banner-template_440834-506.jpg?w=740",
+    "price": "₹100"
+  },
+  {
+    "name": "Orange",
+    "image":
+    "https://media.istockphoto.com/id/182810893/photo/fruit-mix.jpg?s=2048x2048&w=is&k=20&c=DpqhNcQzSqrRDJTPH43F_Bu36TTjUXB1AUCMLwhu-kY=",
+
+    "price": "₹80"
+  },
+  {
+    "name": "Vegetable",
+    "image":
+    "https://media.istockphoto.com/id/1267099282/photo/closeup-of-hands-woman-with-fresh-vegetables-in-the-box-top-view.jpg?s=2048x2048&w=is&k=20&c=1ySGsJBbUS4mCeOid2-M8_Ks6LdMSboYomAYbHEkbe0=",
+    "price": "₹80"
+  },
+  {
+    "name": "Chips",
+    "image": "https://media.istockphoto.com/id/1473199888/photo/salty-snacks-party-mix-an-assortment-of-crispy-appetizers-overhead.jpg?s=1024x1024&w=is&k=20&c=BDVco2s7mS9iYuIsAPe5CKc2HGfdsICQ4DDiIagfMMk=",
+    "price": "₹50"
+  }
+]
